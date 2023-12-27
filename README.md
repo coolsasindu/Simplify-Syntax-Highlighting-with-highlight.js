@@ -1,5 +1,6 @@
 # Simplify-Syntax-Highlighting-with-highlight.js
 Simplify Syntax Highlighting with highlight.js Bloger Html Web site
+![image](https://github.com/coolsasindu/Simplify-Syntax-Highlighting-with-highlight.js/assets/45946252/17f85b5c-bb06-4fb0-a5c6-1f4a9f872a50)
 
 ![image](https://github.com/coolsasindu/Simplify-Syntax-Highlighting-with-highlight.js/assets/45946252/29ef379d-e114-4b85-a2de-5f2616d0fb04)
 
