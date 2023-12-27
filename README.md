@@ -70,6 +70,7 @@ def read_item(item_id: int, q: Union[str, None] = None):
 
 </code></pre>
 
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 # write code like this  &#60;pre&#62;&#60;code&#62;write Code Hete &#60;/code&#62;&#60;/pre&#62;
 
