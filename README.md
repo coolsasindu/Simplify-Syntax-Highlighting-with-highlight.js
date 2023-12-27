@@ -71,7 +71,7 @@ def read_item(item_id: int, q: Union[str, None] = None):
 </code></pre>
 
 
-# write code like this  <pre><code>write Code Hete </code></pre>
+# write code like this  &#60;pre&#62;&#60;code&#62;write Code Hete &#60;/code&#62;&#60;/pre&#62;
 
 ![image](https://github.com/coolsasindu/Simplify-Syntax-Highlighting-with-highlight.js/assets/45946252/5637f2e0-c4a7-42e7-88af-79a9db77459e)
 
