@@ -70,41 +70,8 @@ def read_item(item_id: int, q: Union[str, None] = None):
 
 </code></pre>
 
-<pre><code>
 
-import java.util.Scanner;
-
-class abc{
-  public static void main(String[] args) {
-
-    // creates an object of Scanner
-    Scanner input = new Scanner(System.in);
-
-    System.out.print("Enter your name: ");
-
-    // takes input from the keyboard
-    String name = input.nextLine();
-
-    // prints the name
-    System.out.println("My name is " + name);
-
-    // closes the scanner
-    input.close();
-  }
-}
-
-</code></pre>
-
-<pre><code>
-
-INSERT INTO `transaction` (`id`, `item_id`, `weight`, `nug`, `total_weight`, `transaction_type`, `comment`, `created`) VALUES
-(8, 7, 50.2, 12, 602.4, 'buy', 'Added', '2014-09-19'),
-(9, 11, 100, 5, 500, 'buy', 'Gold ring purchase', '2014-09-12'),
-(10, 11, 100.25, 10, 1002.5, 'buy', 'Purchases', '2014-09-17'),
-(11, 10, 25, 5, 125, 'buy', '', '2014-09-16'),
-(12, 7, 50.2, 5, 251, 'sale', 'Sale', '2014-09-26');
-
-</code></pre>
+# write code like this  <pre><code>write Code Hete </code></pre>
 
 ![image](https://github.com/coolsasindu/Simplify-Syntax-Highlighting-with-highlight.js/assets/45946252/5637f2e0-c4a7-42e7-88af-79a9db77459e)
 
