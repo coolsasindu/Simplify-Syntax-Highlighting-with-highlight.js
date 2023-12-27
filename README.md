@@ -49,7 +49,7 @@ https://cdn.jsdelivr.net/npm/highlight.js@11.9.0/styles/
 ![image](https://github.com/coolsasindu/Simplify-Syntax-Highlighting-with-highlight.js/assets/45946252/71604264-894d-47ad-b007-56b55695f782)
 
 ##write code Like this 
-'''
+
 <pre><code>
 from typing import Union
 
@@ -105,7 +105,7 @@ INSERT INTO `transaction` (`id`, `item_id`, `weight`, `nug`, `total_weight`, `tr
 (12, 7, 50.2, 5, 251, 'sale', 'Sale', '2014-09-26');
 
 </code></pre>
-'''
+
 ![image](https://github.com/coolsasindu/Simplify-Syntax-Highlighting-with-highlight.js/assets/45946252/5637f2e0-c4a7-42e7-88af-79a9db77459e)
 
 More Theams : https://cdn.jsdelivr.net/npm/highlight.js@11.9.0/styles/
